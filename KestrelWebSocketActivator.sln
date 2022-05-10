@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KestrelWebSocketActivator", "KestrelWebSocketActivator\KestrelWebSocketActivator.csproj", "{22A87D49-F0A1-4D76-A885-CC7640FA0497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KestrelWebServer", "KestrelWebServer\KestrelWebServer.csproj", "{5D6FFA31-09D9-4D51-83A4-2EB3BAD67EC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A87D49-F0A1-4D76-A885-CC7640FA0497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A87D49-F0A1-4D76-A885-CC7640FA0497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A87D49-F0A1-4D76-A885-CC7640FA0497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A87D49-F0A1-4D76-A885-CC7640FA0497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6FFA31-09D9-4D51-83A4-2EB3BAD67EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6FFA31-09D9-4D51-83A4-2EB3BAD67EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6FFA31-09D9-4D51-83A4-2EB3BAD67EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6FFA31-09D9-4D51-83A4-2EB3BAD67EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE7DDDC9-5C10-4945-A605-4615FD7B1173}
+	EndGlobalSection
+EndGlobal
